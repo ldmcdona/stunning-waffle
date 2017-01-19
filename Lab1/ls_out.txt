@@ -1,0 +1,26 @@
+A2q1.py~
+A2q2.py~
+CMPUT 201
+CMPUT 229
+Cheat.py~
+Define.py~
+Desktop
+Documents
+Downloads
+FIX IT.py~
+FIX.py~
+Mousepad.py~
+Music
+Number.py~
+Old CMPUT
+Pictures
+Public
+Templates
+Test.py~
+Videos
+World.py~
+lab1.txt
+lab1.txt~
+ls_com.txt
+ls_out.txt
+valid.py~
