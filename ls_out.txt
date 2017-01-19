@@ -1,0 +1,26 @@
+total 45K
+-rw-------+ 1 ldmcdona ugrad 2.1K Nov 17  2015 A2q1.py~
+-rw-------+ 1 ldmcdona ugrad 1.3K Nov 19  2015 A2q2.py~
+drwx------+ 5 ldmcdona ugrad   11 Jan 19 16:17 CMPUT 201
+drwx------+ 3 ldmcdona ugrad    3 Jan 17 17:05 CMPUT 229
+-rw-------+ 1 ldmcdona ugrad  529 Nov 19  2015 Cheat.py~
+-rw-------+ 1 ldmcdona ugrad   60 Oct 27  2015 Define.py~
+drwx------+ 2 ldmcdona ugrad    2 Sep  8  2015 Desktop
+drwx------+ 2 ldmcdona ugrad    2 Sep  8  2015 Documents
+drwx------+ 2 ldmcdona ugrad   15 Jan 19 16:06 Downloads
+-rw-------+ 1 ldmcdona ugrad  313 Nov 17  2015 FIX IT.py~
+-rw-------+ 1 ldmcdona ugrad  407 Nov 17  2015 FIX.py~
+-rw-------+ 1 ldmcdona ugrad   40 Oct 27  2015 Mousepad.py~
+drwx------+ 2 ldmcdona ugrad    2 Sep  8  2015 Music
+-rw-------+ 1 ldmcdona ugrad   80 Oct 27  2015 Number.py~
+drwx------+ 5 ldmcdona ugrad   54 Jan 19 14:00 Old CMPUT
+drwx------+ 2 ldmcdona ugrad    2 Mar 17  2016 Pictures
+drwx------+ 2 ldmcdona ugrad    2 Sep  8  2015 Public
+drwx------+ 2 ldmcdona ugrad    2 Sep  8  2015 Templates
+-rw-------+ 1 ldmcdona ugrad  588 Nov 19  2015 Test.py~
+drwx------+ 2 ldmcdona ugrad    2 Sep  8  2015 Videos
+-rw-------+ 1 ldmcdona ugrad 2.6K Oct 27  2015 World.py~
+-rwx------+ 1 ldmcdona ugrad 8.4K Jan 19 14:48 hello
+-rw-------+ 1 ldmcdona ugrad   79 Jan 19 14:47 hello.c~
+-rw-------+ 1 ldmcdona ugrad  706 Jan 17 18:20 lab1.txt~
+-rw-------+ 1 ldmcdona ugrad  175 Oct 27  2015 valid.py~
